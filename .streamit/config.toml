@@ -1,7 +1,0 @@
-# [theme]에 바로 색을 지정하면 라이트 기반 커스텀 테마 하나로 고정돼 다크 모드가 꺼진다.
-# light/dark를 각각 지정해 사용자 시스템 설정을 따르게 한다.
-[theme.light]
-primaryColor = "#2E9E6A"
-
-[theme.dark]
-primaryColor = "#3DBE82"
